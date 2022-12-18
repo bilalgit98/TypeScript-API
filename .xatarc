@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://BVasa-s-workspace-du5ar6.eu-west-1.xata.sh/db/jobs-demo",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
